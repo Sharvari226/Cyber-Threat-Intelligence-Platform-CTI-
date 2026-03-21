@@ -1,0 +1,45 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Database (ignore SQLite)
+
+*.db
+
+# Datasets (VERY IMPORTANT)
+
+UNSW_NB15_*.csv
+NUSW-NB15_features.csv
+
+# Logs
+
+*.log
+
+# VS Code
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Zip files
+
+*.zip
